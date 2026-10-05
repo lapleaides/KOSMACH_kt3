@@ -180,7 +180,7 @@ let truck;
 
 loader.load(
 
-    'models/truck.glb',
+    'models/TRUCK.glb',
 
     function(gltf) {
 
